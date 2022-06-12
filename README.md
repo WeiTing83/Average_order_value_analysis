@@ -1,7 +1,7 @@
 # Outlier_analysis
 
 
-![flow_chart](https://github.com/WeiTing83/Shopify_Technical_Challenge_Submission/blob/main/Question1/image/flow_chart.png)
+![flow_chart](https://github.com/WeiTing83/Outlier_analysis/blob/main/image/flow_chart.png)
 
  a. Think about what could be going wrong with our calculation. Think about a better
 way to evaluate this data.
@@ -19,19 +19,19 @@ b. What metric would you report for this dataset?
   
 #### < Z-Score >
   
-  ![z_describe](https://github.com/WeiTing83/Shopify_Technical_Challenge_Submission/blob/main/Question1/image/z_describe.png)
+  ![z_describe](https://github.com/WeiTing83/Outlier_analysis/blob/main/image/z_describe.png)
   
-  ![z_boxplot](https://github.com/WeiTing83/Shopify_Technical_Challenge_Submission/blob/main/Question1/image/z_boxplot.png)
+  ![z_boxplot](https://github.com/WeiTing83/Outlier_analysis/blob/main/image/z_boxplot.png)
   
 #### < IQR >
   
-  ![IQR_describe](https://github.com/WeiTing83/Shopify_Technical_Challenge_Submission/blob/main/Question1/image/IQR_describe.png) 
+  ![IQR_describe](https://github.com/WeiTing83/Outlier_analysis/blob/main/image/IQR_describe.png) 
   
-  ![IQR_boxplot](https://github.com/WeiTing83/Shopify_Technical_Challenge_Submission/blob/main/Question1/image/IQR_boxplot.png)
+  ![IQR_boxplot](https://github.com/WeiTing83/Outlier_analysis/blob/main/image/IQR_boxplot.png)
   
-  ![IQR_distribution](https://github.com/WeiTing83/Shopify_Technical_Challenge_Submission/blob/main/Question1/image/IQR_distribution.png)
+  ![IQR_distribution](https://github.com/WeiTing83/Outlier_analysis/blob/main/image/IQR_distribution.png)
   
-  ![Outlier_list](https://github.com/WeiTing83/Shopify_Technical_Challenge_Submission/blob/main/Question1/image/outlier.png)
+  ![Outlier_list](https://github.com/WeiTing83/Outlier_analysis/blob/main/image/outlier.png)
 >
 c. What is its value? 
 
