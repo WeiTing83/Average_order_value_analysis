@@ -1,4 +1,4 @@
-# Outlier_analysis
+# Average_order_value_analysis
 
 ### Dataset: The dataset is about an online store’s sales figures in March 2017. 
 ### Purpose:
